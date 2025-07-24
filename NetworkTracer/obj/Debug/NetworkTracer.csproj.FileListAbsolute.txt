@@ -8,3 +8,5 @@ D:\Repos\NetworkTracer\NetworkTracer\obj\Debug\NetworkTracer.csproj.CoreCompileI
 D:\Repos\NetworkTracer\NetworkTracer\obj\Debug\NetworkTracer.exe
 D:\Repos\NetworkTracer\NetworkTracer\obj\Debug\NetworkTracer.pdb
 D:\Repos\NetworkTracer\NetworkTracer\obj\Debug\NetworkTracer.Form2.resources
+D:\Repos\NetworkTracer\NetworkTracer\bin\Debug\NetworkTracer.exe.config
+D:\Repos\NetworkTracer\NetworkTracer\obj\Debug\NetworkTracer.csproj.AssemblyReference.cache
